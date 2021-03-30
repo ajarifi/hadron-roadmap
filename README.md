@@ -26,7 +26,7 @@ The first step is to study the basic physics.
 3. Modern Quantum Mechanics (Sakurai)
 
 
-## A. Advanced Physics
+## B. Advanced Physics
 The next step is to study more advanced topic.
 
 ### Introduction
