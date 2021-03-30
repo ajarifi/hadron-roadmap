@@ -25,6 +25,7 @@ The first step is to study the basic physics.
 ### Classical Electrodynamics
 1. Introduction to Electrodynamics (Griffith)
 2. Classical Electrodynamics (Jackson)
+3. Classical Electrodynamics (Greiner)
 
 ### Modern Physics
 1. Modern Physics for scientists and engineers (Thornton)
@@ -35,6 +36,11 @@ The first step is to study the basic physics.
 1. Introduction to Quantum mechanics (Griffith)
 2. Quantum Physics (Gasiorowicz)
 3. Modern Quantum Mechanics (Sakurai)
+4. Quantum Mechanics: Introduction (Greiner)
+5. Quantum Mechanics: Special Chapters (Greiner)
+
+### Special Relativity
+1. Relativistic Quantum Mechanics (Greiner)
 
 ## B. Advanced Physics
 The next step is to study more advanced topic.
