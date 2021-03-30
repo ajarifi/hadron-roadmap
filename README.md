@@ -54,7 +54,8 @@ The next step is to study more advanced topic.
 
 
 ### Quantum Field Theory
-1. Quantum Field Theory and the Standard Model (Schwartz)
-2. Lecture on Quantum Field Theory (Das)
-3. Field Theory: A Path Integral Approach (Das)
-4. Quantum Field Theory (Srednicki)
+1. An Introduction to Quantum Field Theory (Peskin & Schroeder)
+2. Quantum Field Theory and the Standard Model (Schwartz)
+3. Lecture on Quantum Field Theory (Das)
+4. Field Theory: A Path Integral Approach (Das)
+5. Quantum Field Theory (Srednicki)
