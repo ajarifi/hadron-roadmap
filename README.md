@@ -9,20 +9,9 @@ The first step is to study the basic physics.
 1. Classical Dynamics of particle and system, Thornton & Marion
 2. Classical Mechanics, Goldstein
 
-
-### Thermodynamics
-
-### Statistical Physics
-
 ### Classical Electrodynamics
+1. Introduction to Electrodynamics, Griffith
 
-## Physical mechanics
-
-
-## Quantum Mechanics
-
-### Modern physics
-
-## Computational physics
-
+### Quantum Mechanics
+1. Introduction to Quantum mechanics, Griffith
 
