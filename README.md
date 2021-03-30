@@ -66,6 +66,7 @@ The next step is to study more advanced topic.
 5. Quantum Field Theory (Srednicki)
 6. Field Quantization (Greiner)
 
-### Standard Model
+### Gauge Theory
 1. Quantum Chromodynamics (Greiner)
 2. Quantum Electrodynamics (Greiner)
+3. Gauge Theory of Weak Interaction (Greiner)
