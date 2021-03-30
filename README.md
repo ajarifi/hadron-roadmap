@@ -29,7 +29,7 @@ The first step is to study the basic physics.
 2. Quantum Physics (Gasiorowicz)
 3. Modern Quantum Mechanics (Sakurai)
 
-Angular Momentum
+Angular Momentum\
 5. Angular Momentum in Quantum Mechanics (Edmonds)
 6. Angular Momentum techniques in quantum mechanics (Devanathan)
 
