@@ -60,3 +60,7 @@ The next step is to study more advanced topic.
 4. Field Theory: A Path Integral Approach (Das)
 5. Quantum Field Theory (Srednicki)
 6. Field Quantization (Greiner)
+
+### Standard Model
+1. Quantum Chromodynamics (Greiner)
+2. Quantum Electrodynamics (Greiner)
