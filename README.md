@@ -47,6 +47,7 @@ The next step is to study more advanced topic.
 
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
+2. Quantum Mechanics - Symmetry (Greiner)
 
 ### Quantum Field Theory
 1. Quantum Field Theory and the Standard Model (Schwartz)
