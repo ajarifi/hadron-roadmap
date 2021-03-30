@@ -15,6 +15,7 @@ The first step is to study the basic physics.
 ### Classical Mechanics
 1. Classical Dynamics of particle and system (Thornton & Marion)
 2. Classical Mechanics (Goldstein)
+3. Optics (Hecht)
 
 ### Classical Electrodynamics
 1. Introduction to Electrodynamics (Griffith)
