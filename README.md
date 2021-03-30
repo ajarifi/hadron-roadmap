@@ -46,6 +46,7 @@ The next step is to study more advanced topic.
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
 2. Quantum Mechanics - Symmetry (Greiner)
+3. Lie Groups and Lie Algebra for Physicist (Das & Okubo)
 
 ### Angular Momentum
 1. Angular Momentum in Quantum Mechanics (Edmonds)
