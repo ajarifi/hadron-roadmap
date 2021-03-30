@@ -19,9 +19,7 @@ The first step is to study the basic physics.
 
 ### Vibration & Wave
 1. The Physics of Vibrations and Waves (Pain)
-
-### Optics
-1. Optics (Hecht)
+2. Optics (Hecht)
 
 ### Classical Electrodynamics
 1. Introduction to Electrodynamics (Griffith)
