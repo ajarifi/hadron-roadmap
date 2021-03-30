@@ -35,11 +35,6 @@ The first step is to study the basic physics.
 2. Quantum Physics (Gasiorowicz)
 3. Modern Quantum Mechanics (Sakurai)
 
-Angular Momentum
-1. Angular Momentum in Quantum Mechanics (Edmonds)
-2. Angular Momentum Techniques in Quantum Mechanics (Devanathan)
-
-
 ## B. Advanced Physics
 The next step is to study more advanced topic.
 
@@ -49,6 +44,12 @@ The next step is to study more advanced topic.
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
 2. Quantum Mechanics - Symmetry (Greiner)
+
+
+### Angular Momentum
+1. Angular Momentum in Quantum Mechanics (Edmonds)
+2. Angular Momentum Techniques in Quantum Mechanics (Devanathan)
+
 
 ### Quantum Field Theory
 1. Quantum Field Theory and the Standard Model (Schwartz)
