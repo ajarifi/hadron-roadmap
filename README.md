@@ -25,6 +25,7 @@ The first step is to study the basic physics.
 2. Quantum Physics (Gasiorowicz)
 3. Modern Quantum Mechanics (Sakurai)
 4. Angular Momentum in Quantum Mechanics (Edmonds)
+5. Angular momentum techniques in quantum mechanics (Devanathan)
 
 
 ## B. Advanced Physics
