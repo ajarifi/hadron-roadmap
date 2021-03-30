@@ -41,7 +41,7 @@ The next step is to study more advanced topic.
 
 ### Introduction
 1. Introduction to Elementary Particle Physics (Griffith)
-2. 
+2. Introduction to Nuclear and Particle Physics (Das & Ferbel)
 
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
@@ -54,4 +54,4 @@ The next step is to study more advanced topic.
 
 ### Quantum Field Theory
 1. Quantum Field Theory and the Standard Model (Schwartz)
-2. Lecture on Quantum Field Theory (Ashok Das)
+2. Lecture on Quantum Field Theory (Das)
