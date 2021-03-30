@@ -16,9 +16,11 @@ The first step is to study the basic physics.
 1. Classical Dynamics of particle and system (Thornton & Marion)
 2. Classical Mechanics (Goldstein)
 
-Vibration, Wave & Optics
+### Vibration & Wave
+1. The Physics of Vibrations and Waves (Pain)
+
+### Optics
 1. Optics (Hecht)
-2. The Physics of Vibrations and Waves (Pain)
 
 ### Classical Electrodynamics
 1. Introduction to Electrodynamics (Griffith)
