@@ -29,6 +29,7 @@ The first step is to study the basic physics.
 ### Modern Physics
 1. Modern Physics for scientists and engineers (Thornton)
 2. Modern Physics (Tipler)
+3. Modern Physics (Krane)
 
 ### Quantum Mechanics
 1. Introduction to Quantum mechanics (Griffith)
@@ -40,11 +41,11 @@ The next step is to study more advanced topic.
 
 ### Introduction
 1. Introduction to Elementary Particle Physics (Griffith)
+2. 
 
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
 2. Quantum Mechanics - Symmetry (Greiner)
-
 
 ### Angular Momentum
 1. Angular Momentum in Quantum Mechanics (Edmonds)
