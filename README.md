@@ -17,5 +17,6 @@ The first step is to study the basic physics.
 
 ### Quantum Mechanics
 1. Introduction to Quantum mechanics, Griffith
-2. Modern Quantum Mechanics, Sakurai
+2. Quantum Physics, Gasiorowicz
+3. Modern Quantum Mechanics, Sakurai
 
