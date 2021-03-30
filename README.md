@@ -53,3 +53,4 @@ The next step is to study more advanced topic.
 
 ### Quantum Field Theory
 1. Quantum Field Theory and the Standard Model (Schwartz)
+2. Lecture on Quantum Field Theory (Ashok Das)
