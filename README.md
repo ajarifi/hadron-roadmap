@@ -44,11 +44,11 @@ The first step is to study the basic physics.
 ## B. Advanced Physics
 The next step is to study more advanced topic.
 
-### Introduction
+### Particle Physics
 1. Introduction to Elementary Particle Physics (Griffith)
 2. Introduction to Nuclear and Particle Physics (Das & Ferbel)
 
-## Nuclear theory
+## Nuclear Physics
 1. Nuclear Models (Greiner)
 
 ### Symmetry
