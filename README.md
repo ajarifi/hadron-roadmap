@@ -15,6 +15,7 @@ The first step is to study the basic physics.
 ### Classical Mechanics
 1. Classical Dynamics of particle and system (Thornton & Marion)
 2. Classical Mechanics (Goldstein)
+3. Classical Mechanics: Systems of Particles and Hamiltonian Dynamics (Greiner)
 
 ### Vibration & Wave
 1. The Physics of Vibrations and Waves (Pain)
@@ -26,6 +27,9 @@ The first step is to study the basic physics.
 1. Introduction to Electrodynamics (Griffith)
 2. Classical Electrodynamics (Jackson)
 3. Classical Electrodynamics (Greiner)
+
+### Special Relativity
+1.  Classical Mechanics: Point Particles and Relativity (Greiner)
 
 ### Modern Physics
 1. Modern Physics for scientists and engineers (Thornton)
