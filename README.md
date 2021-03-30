@@ -16,6 +16,7 @@ The first step is to study the basic physics.
 
 ### Classical Electrodynamics
 1. Introduction to Electrodynamics (Griffith)
+2. Classical Electrodynamics (Jackson)
 
 ### Modern Physics
 1. Modern physics for scientists and engineers (Thornton)
