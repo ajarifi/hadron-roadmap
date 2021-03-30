@@ -4,11 +4,13 @@ The guideline to study and do research on hadron physics
 ## A. Basic Physics
 The first step is to study the basic physics.
 
+### Fundamental Physics
+1. Fundamentals of Physics (Halliday & Resnick)
+
 ### Mathematical methods
 1. Calculus (Purcell)
 2. Mathematical Methods in The Physical Science (Boas)
 3. Mathematical Methods for Physicist (Arfken, Weber & Harris)
-
 
 ### Classical Mechanics
 1. Classical Dynamics of particle and system (Thornton & Marion)
