@@ -59,3 +59,4 @@ The next step is to study more advanced topic.
 3. Lecture on Quantum Field Theory (Das)
 4. Field Theory: A Path Integral Approach (Das)
 5. Quantum Field Theory (Srednicki)
+6. Field Quantization (Greiner)
