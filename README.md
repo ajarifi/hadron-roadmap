@@ -37,5 +37,8 @@ The next step is to study more advanced topic.
 ### Introduction
 1. Introduction to Elementary Particle Physics (Griffith)
 
+### Symmetry
+1. Lie Groups for Particle Phyiscs (Georgi)
+
 ### Quantum Field Theory
 1. Quantum Field Theory and the Standard Model (Schwartz)
