@@ -27,7 +27,8 @@ The first step is to study the basic physics.
 2. Classical Electrodynamics (Jackson)
 
 ### Modern Physics
-1. Modern physics for scientists and engineers (Thornton)
+1. Modern Physics for scientists and engineers (Thornton)
+2. Modern Physics (Tipler)
 
 ### Quantum Mechanics
 1. Introduction to Quantum mechanics (Griffith)
