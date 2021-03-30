@@ -39,9 +39,6 @@ The first step is to study the basic physics.
 4. Quantum Mechanics: Introduction (Greiner)
 5. Quantum Mechanics: Special Chapters (Greiner)
 
-### Special Relativity
-1. Relativistic Quantum Mechanics (Greiner)
-
 ## B. Advanced Physics
 The next step is to study more advanced topic.
 
@@ -58,6 +55,8 @@ The next step is to study more advanced topic.
 1. Angular Momentum in Quantum Mechanics (Edmonds)
 2. Angular Momentum Techniques in Quantum Mechanics (Devanathan)
 
+### Relativistic Quantum Mechanics
+1. Relativistic Quantum Mechanics (Greiner)
 
 ### Quantum Field Theory
 1. An Introduction to Quantum Field Theory (Peskin & Schroeder)
