@@ -23,3 +23,12 @@ The first step is to study the basic physics.
 2. Quantum Physics (Gasiorowicz)
 3. Modern Quantum Mechanics (Sakurai)
 
+
+## A. Advanced Physics
+The next step is to study more advanced topic.
+
+### Introduction
+1. Introduction to Elementary Particle Physics (Griffith)
+
+### Quantum Field Theory
+1. Quantum Field Theory and the Standard Model (Schwartz)
