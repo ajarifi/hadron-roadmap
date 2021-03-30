@@ -12,6 +12,9 @@ The first step is to study the basic physics.
 ### Classical Electrodynamics
 1. Introduction to Electrodynamics, Griffith
 
+### Modern Physics
+1. Modern physics for scientists and engineers, Thornton
+
 ### Quantum Mechanics
 1. Introduction to Quantum mechanics, Griffith
 2. Modern Quantum Mechanics, Sakurai
