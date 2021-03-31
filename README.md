@@ -68,6 +68,7 @@ The next step is to study more advanced topic.
 4. An Introduction to the Confinement Problem (Greensite)
 5. A Primer for Chiral Perturbation Theory (Scherer & Schindler)
 6. The Physics of the Quark-Gluon Plasma (Sarkar, Satz, & Sinha)
+7. Quantum Chromodynamics on the Lattice (Gattringer & Lang)
 
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
