@@ -54,6 +54,7 @@ The next step is to study more advanced topic.
 4. Introduction to High Energy Physics (Perkins)
 5. Modern elementary particle physics (Kane)
 6. An Introduction to Particle Physics and the Standard Model (Mann)
+7. Problems and Solutions in Nuclear and Particle Physics (Petrera)
 
 ### Experimental Particle Physics
 1. Experimental foundations of particle physics (Cahn)
@@ -64,6 +65,9 @@ The next step is to study more advanced topic.
 ### Hadron Physics
 1. Quarks, Baryons, and Chiral Symmetry (Hosaka & Toki)
 2. The Quark Structure of Hadrons (Amsler)
+4. An Introduction to the Confinement Problem (Greensite)
+5. A Primer for Chiral Perturbation Theory (Scherer & Schindler)
+6. The Physics of the Quark-Gluon Plasma (Sarkar, Satz, & Sinha)
 
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
