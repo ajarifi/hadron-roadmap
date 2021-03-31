@@ -26,6 +26,9 @@ The first step is to study the basic physics.
 2. Classical Electrodynamics (Jackson)
 3. Classical Electrodynamics (Greiner)
 
+### Thermodynamics & Statistical Mechanics
+1.  Thermodynamics and Statistical Mechanics (Greiner)
+
 ### Special Relativity
 1.  Classical Mechanics: Point Particles and Relativity (Greiner)
 
