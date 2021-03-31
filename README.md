@@ -52,6 +52,11 @@ The next step is to study more advanced topic.
 2. Introduction to Nuclear and Particle Physics (Das & Ferbel)
 3. Quark and Lepton (Halzen & Martin)
 4. Introduction to High Energy Physics (Perkins)
+5. Modern elementary particle physics (Kane)
+6. An Introduction to Particle Physics and the Standard Model (Mann)
+
+### Experimental Particle Physics
+1. Experimental foundations of particle physics (Cahn)
 
 ### Nuclear Physics
 1. Nuclear Models (Greiner)
