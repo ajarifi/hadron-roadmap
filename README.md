@@ -50,6 +50,7 @@ The next step is to study more advanced topic.
 ### Particle Physics
 1. Introduction to Elementary Particle Physics (Griffith)
 2. Introduction to Nuclear and Particle Physics (Das & Ferbel)
+3. Quark and Lepton (Halzen & Martin)
 
 ### Nuclear Physics
 1. Nuclear Models (Greiner)
