@@ -55,9 +55,11 @@ The next step is to study more advanced topic.
 5. Modern elementary particle physics (Kane)
 6. An Introduction to Particle Physics and the Standard Model (Mann)
 7. Problems and Solutions in Nuclear and Particle Physics (Petrera)
+8. Collider Physics within the Standard Model (Altarelli & Wells)
 
 ### Experimental Particle Physics
 1. Experimental foundations of particle physics (Cahn)
+2. Particle and Nuclear Physics at J-PARC (Takahiro, Toshiyuki & Yoshimura)
 
 ### Nuclear Physics
 1. Nuclear Models (Greiner)
@@ -69,11 +71,19 @@ The next step is to study more advanced topic.
 5. A Primer for Chiral Perturbation Theory (Scherer & Schindler)
 6. The Physics of the Quark-Gluon Plasma (Sarkar, Satz, & Sinha)
 7. Quantum Chromodynamics on the Lattice (Gattringer & Lang)
+8. Nuclear Lattice Effective Field Theory (Lähde & Meißner)
+9. Basics of Thermal Field Theory (Laine & Vuorinen)
+10. AdS/CFT Duality User Guide (Natsuume)
+11. Heavy Quark Physics (Blaschke & Ivanov)
+12. Chiral Soliton Models for Baryons (Weigel)
+13. Topics in Strangeness Nuclear Physics (Bydžovský, Mareš & Gal)
 
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
 2. Quantum Mechanics - Symmetry (Greiner)
 3. Lie Groups and Lie Algebra for Physicist (Das & Okubo)
+4. Symmetries and Group Theory in Particle Physics (Costa & Fogli)
+5. Symmetry Breaking (Strocchi)
 
 ### Angular Momentum
 1. Angular Momentum in Quantum Mechanics (Edmonds)
