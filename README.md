@@ -61,6 +61,10 @@ The next step is to study more advanced topic.
 ### Nuclear Physics
 1. Nuclear Models (Greiner)
 
+### Hadron Physics
+1. Quarks, Baryons, and Chiral Symmetry (Hosaka & Toki)
+2. The Quark Structure of Hadrons (Amsler)
+
 ### Symmetry
 1. Lie Groups for Particle Phyiscs (Georgi)
 2. Quantum Mechanics - Symmetry (Greiner)
